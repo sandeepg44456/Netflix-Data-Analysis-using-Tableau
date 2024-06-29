@@ -37,7 +37,7 @@ Netflix Data Analysis Using Tableau
     
     5) Vertical bar graph showing the relationship between the Rating of movies and TV shows.
     
-    7) Showing Wordcloud For Description, Gerne, Rating, Release Year, Duration and Date added.
+    6) Showing Wordcloud For Description, Gerne, Rating, Release Year, Duration and Date added.
     
 
 ## METHODOLOGY:
