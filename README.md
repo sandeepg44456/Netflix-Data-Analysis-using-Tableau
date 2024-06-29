@@ -78,7 +78,7 @@ Movies have the Highest distribution compared to TV shows.
 
 ## Vertical bar graph showing the relationship between the Rating of movies and TV shows.
 
-TV-MA has the highest count of shows, while NC-17 has a very low count.
+"TV-MA" has the highest count of shows, while "NC-17" has a very low count.
 
 ![Ratings](https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/101c63c9-f51e-4f35-a29b-156d3fd11d56)
 
