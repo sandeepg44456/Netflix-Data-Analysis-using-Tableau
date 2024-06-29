@@ -51,36 +51,36 @@ The goal of this project is to interpret different types of visualizations using
 
 More movies were added between 2015 and 2020 compared to TV shows.
 
-<img width="812" alt="Total Movies   TV Shows by Years" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/33ad96c5-761a-458a-9358-edee9b2bc7dd">
+<img width="812" alt="Total Movies   TV Shows by Years" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/e4e95e32-d761-4541-90fb-24ac85c859e1">
 
 
 ## World Map showing the count of show IDs by country.
 
 According to the color grading, the USA has the most show IDs, followed by India.
 
-<img width="738" alt="Total Movies   TV Shows by Country" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/95570e5f-b5c6-4f4a-bbe5-f606637af8c0">
+<img width="738" alt="Total Movies   TV Shows by Country" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/a269fd15-9a21-440b-8ddf-d28bd84ab2a7">
 
 
 ## Horizontal bar graph showing the relationship between the top 10 genres of movies and TV shows..
 
 The Documentary genre has the highest count of shows followed by Stand-Up Comedy.
 
-![Top 10 Genre](https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/0f7d1ab6-b8b7-43c2-8226-aa9cd1281dcf)
+![Top 10 Genre](https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/fc06cc42-c3a1-409a-8d69-cc90b3dec92b)
 
 
 ## Pie-Chart showing the distribution of movies and TV shows.
 
 Movies have the Highest distribution compared to TV shows.
 
-<img width="563" alt="Pie chart distribution" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/8f7d08b3-6f91-41c3-98d7-63acc3957fce">
+<img width="563" alt="Pie chart distribution" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/213042b1-5426-443a-9e9f-258bdbfda30a">
+
 
 
 ## Vertical bar graph showing the relationship between the Rating of movies and TV shows.
 
 TV-MA has the highest count of shows, while NC-17 has a very low count.
 
-![Ratings](https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/36680a17-011b-451b-84f3-014f36e0b49c)
-
+![Ratings](https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/101c63c9-f51e-4f35-a29b-156d3fd11d56)
 
 
 ## NETFLIX ANALYSIS DASHBOARD:
@@ -95,7 +95,7 @@ The dashboard features:
  
 ## DASHBOARD:
 
-<img width="2850" alt="Dashboard" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/1d38772a-f393-4521-980f-4b3559e128a7">
+<img width="2850" alt="Dashboard" src="https://github.com/sandeepg4456/Netflix-Data-Analysis-using-Tableau/assets/161113447/0ac39d7e-bb5f-4028-9574-bfc3c213f38d">
 
 
 ## NOTE:
